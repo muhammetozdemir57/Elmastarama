@@ -2,4 +2,4 @@ streamlit
 yfinance
 pandas
 pandas-ta
-bist-data
+requests
